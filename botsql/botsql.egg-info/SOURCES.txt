@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botsql/__init__.py
+botsql/__main__.py
+botsql/bot.py
+botsql.egg-info/PKG-INFO
+botsql.egg-info/SOURCES.txt
+botsql.egg-info/dependency_links.txt
+botsql.egg-info/requires.txt
+botsql.egg-info/top_level.txt
+botsql/resources/start.png
